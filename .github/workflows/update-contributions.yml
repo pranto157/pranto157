@@ -1,8 +1,9 @@
 name: Update Private Contributions
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Schedule the workflow to run every hour
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
   update-contributions:
