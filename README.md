@@ -18,8 +18,7 @@ MySQL, MongoDB, AWS, Ansible, Docker, Terraform, CI/CD, Scrum Microservices Arch
 - https://raianulkabir.wordpress.com/
 
 ## Connect with Me
-- GitHub: [Your GitHub Username](https://github.com/pranto157)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pranto/)
+- LinkedIn: [Raianul Kabir](https://www.linkedin.com/in/pranto/)
 
 
 <p align="center">
