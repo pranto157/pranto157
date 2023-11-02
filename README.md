@@ -21,7 +21,7 @@ MySQL, MongoDB, AWS, Ansible, Docker, Terraform, CI/CD, Scrum Microservices Arch
 - LinkedIn: [Raianul Kabir](https://www.linkedin.com/in/pranto/)
 
 
-![Raian's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranto157)
+<!-- ![Raian's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranto157)-->
 
 <!--PRIVATE_CONTRIBUTIONS_START-->
 
